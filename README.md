@@ -1,5 +1,3 @@
-# basic_url_testpy
-
 # Learning python.
 
 I'm a student using this to learn git and python, this is my first public upload.
