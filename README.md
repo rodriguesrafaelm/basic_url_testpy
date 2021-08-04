@@ -11,5 +11,5 @@ If it's reacheable returns Available else Unavailable.
 Feel free to send me projects or anything you think would help me learning python or git.
 
 
-1. Type your preferencial language.
+1. Type your preferencial language. ENG(English) or PT(Portuguese)
 2. Insert link to be tested.
